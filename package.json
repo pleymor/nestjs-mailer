@@ -1,6 +1,6 @@
 {
   "name": "@pleymor/nestjs-mailer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": false,
   "description": "NestJS - an handlebars only mailer module",
   "keywords": [
